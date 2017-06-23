@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robin\AndroidStudioProjects\Smart_Health\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\Smart_Health\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ec5b2db62eb4e570e8bcea4d663ee92abd89e824\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Robin\AndroidStudioProjects\Smart_Health\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79bd201c42a8d7cb29c905dcf373da27b8891a98">
+        <dex dex="C:\Users\Robin\AndroidStudioProjects\Smart_Health\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7762a3cd9c21be7d5c6206e14687e84e53030102\classes.dex" />
+    </item>
+
+</items>
